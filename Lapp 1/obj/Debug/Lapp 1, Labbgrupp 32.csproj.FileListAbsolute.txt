@@ -1,0 +1,7 @@
+C:\Users\samahm\Desktop\Uni\Semester 1\Objektorienterad programmering (GIK299)\Excersice Udemy\Lapp 1, Labbgrupp 32\Lapp 1, Labbgrupp 32\bin\Debug\Lapp 1, Labbgrupp 32.exe.config
+C:\Users\samahm\Desktop\Uni\Semester 1\Objektorienterad programmering (GIK299)\Excersice Udemy\Lapp 1, Labbgrupp 32\Lapp 1, Labbgrupp 32\bin\Debug\Lapp 1, Labbgrupp 32.exe
+C:\Users\samahm\Desktop\Uni\Semester 1\Objektorienterad programmering (GIK299)\Excersice Udemy\Lapp 1, Labbgrupp 32\Lapp 1, Labbgrupp 32\bin\Debug\Lapp 1, Labbgrupp 32.pdb
+C:\Users\samahm\Desktop\Uni\Semester 1\Objektorienterad programmering (GIK299)\Excersice Udemy\Lapp 1, Labbgrupp 32\Lapp 1, Labbgrupp 32\obj\Debug\Lapp 1, Labbgrupp 32.csproj.AssemblyReference.cache
+C:\Users\samahm\Desktop\Uni\Semester 1\Objektorienterad programmering (GIK299)\Excersice Udemy\Lapp 1, Labbgrupp 32\Lapp 1, Labbgrupp 32\obj\Debug\Lapp 1, Labbgrupp 32.csproj.CoreCompileInputs.cache
+C:\Users\samahm\Desktop\Uni\Semester 1\Objektorienterad programmering (GIK299)\Excersice Udemy\Lapp 1, Labbgrupp 32\Lapp 1, Labbgrupp 32\obj\Debug\Lapp 1, Labbgrupp 32.exe
+C:\Users\samahm\Desktop\Uni\Semester 1\Objektorienterad programmering (GIK299)\Excersice Udemy\Lapp 1, Labbgrupp 32\Lapp 1, Labbgrupp 32\obj\Debug\Lapp 1, Labbgrupp 32.pdb
